@@ -45,8 +45,8 @@ Create a simple, stage-based beat-'em-up-style game with RPG elements. Enemies c
 
 *Graphics*
 - 1 isometric tile 
--- Maybe just a diamond; to give the player and enemy graphics a place to stand and face one another.
--- No movement yet, so this is really just version zero
+ - Maybe just a diamond; to give the player and enemy graphics a place to stand and face one another.
+ - No movement yet, so this is really just version zero
 - Player hero facing right - simple shape graphics (fancy lighting etc. comes later)
 - Enemy facing left - simple shape graphics
 - 1 player attack animation
