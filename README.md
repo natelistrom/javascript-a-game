@@ -1,3 +1,9 @@
+---
+
+**Obviously, there's been no activity here since initial start. Like many of my aspirations, this got sidelined quickly as I focused on other things. I'm leaving this here as a sort of tombstone/wishlist. Maybe I'll pick this up someday, but probably not in the same form.**
+
+---
+
 # Javascript a game
 Make a game to learn how to code in javascript.
 
